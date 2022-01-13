@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mfajarhafidh
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Data Analytics, Visualizasing, and Modelling
-- 📫 How to reach me DM me!
+- 📫 How to reach me DM me on my LinkedIn!
 
 <!---
 mfajarhafidh/mfajarhafidh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
