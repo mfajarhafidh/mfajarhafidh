@@ -7,7 +7,7 @@ You also can see my Data Visualizations at:
 
 ---
 
-##[Tableau](https://public.tableau.com/app/profile/mohamad.fajar.hafidh)
+## [MyTableau](https://public.tableau.com/app/profile/mohamad.fajar.hafidh)
 
 <!---
 mfajarhafidh/mfajarhafidh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
