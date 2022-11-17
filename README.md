@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mfajarhafidh
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Data Analytics, Visualizasing, and Modelling
+- 👀 I’m interested in Flutter and Android Native
+- 🌱 I’m currently learning Flutter and Android Native
 - 📫 How to reach me DM me on my LinkedIn!
 
 You also can see my Data Visualizations at:
