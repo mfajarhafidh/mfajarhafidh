@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mfajarhafidh
-- 👀 I’m interested in Flutter and Android Native
-- 🌱 I’m currently learning Flutter and Android Native
+- 👀 I’m interested in Flutter
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me DM me on my LinkedIn!
 
 You also can see my Data Visualizations at:
