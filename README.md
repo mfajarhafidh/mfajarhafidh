@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mfajarhafidh
 - 👀 I’m interested in Flutter
 - 🌱 I’m currently learning Flutter
-- 📫 Reach me out via LinkedIn --> https://www.linkedin.com/in/mfajarhafidh/!
+- 📫 Reach me out via LinkedIn --> https://www.linkedin.com/in/mfajarhafidh/
 
 You also can see my Data Visualizations at:
 
